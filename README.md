@@ -1,4 +1,6 @@
-# helianxj.github.com
+# helianxj.github.io
+
+blog 地址： http://helianxj.github.io/
 
 ### 如何建立GitHub Pages
 
