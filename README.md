@@ -6,4 +6,6 @@
 
 中文： http://blog.csdn.net/renfufei/article/details/37725057
 
+markdown 语法（比较详细） ：https://guides.github.com/features/mastering-markdown/
+
 
