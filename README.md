@@ -1,3 +1,3 @@
 # helianxj.github.com
 
-my blog
+和光同尘
